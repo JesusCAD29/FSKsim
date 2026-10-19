@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Señales FSK",
+  "description": "Simulador interactivo de modulación FSK (Frequency Shift Keying) con visualización de señales digitales y analógicas, demodulación y análisis de espectro FFT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

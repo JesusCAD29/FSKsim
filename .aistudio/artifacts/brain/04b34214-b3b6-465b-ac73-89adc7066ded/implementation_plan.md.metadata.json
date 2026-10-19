@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de implementación para el Simulador de Señales FSK (Frequency Shift Keying) con visualización sincronizada de señales digitales y analógicas, demodulación, análisis espectral FFT, ruido AWGN y controles interactivos tipo osciloscopio de laboratorio.",
+  "updatedAt": "2026-10-19T17:38:20.924445037Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
